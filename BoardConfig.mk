@@ -1,3 +1,4 @@
+LOCAL_PATH := device/smartisan/yq601
 USE_CAMERA_STUB := true
 
 # inherit from the proprietary version
